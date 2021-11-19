@@ -2,4 +2,4 @@
   </h1> 
 <h3 align="center"> A simple button plugin for your website </h3> 
 
-<h4 align="center">Available Colors : <img src="https://img.icons8.com/emoji/10/000000/red-circle-emoji.png"/> Red , <img src="https://img.icons8.com/emoji/10/000000/green-circle-emoji.png"/> Green , <img src="https://img.icons8.com/emoji/10/000000/yellow-circle-emoji.png"/> Yellow , <img src="https://img.icons8.com/emoji/10/000000/blue-circle-emoji.png"/> Blue , <img src="https://img.icons8.com/emoji/10/000000/white-circle-emoji.png"/> White </h4>
+<h4 align="center">Now Available in : <img src="https://img.icons8.com/emoji/10/000000/red-circle-emoji.png"/> Red , <img src="https://img.icons8.com/emoji/10/000000/green-circle-emoji.png"/> Green , <img src="https://img.icons8.com/emoji/10/000000/yellow-circle-emoji.png"/> Yellow , <img src="https://img.icons8.com/emoji/10/000000/blue-circle-emoji.png"/> Blue , <img src="https://img.icons8.com/emoji/10/000000/white-circle-emoji.png"/> White </h4>
