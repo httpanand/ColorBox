@@ -1,4 +1,4 @@
-<h1 align="center"> COLOR BOX DOCS </h1>
+<h1 align="center"> DOCS </h1>
 <h3> ➫ Include colorbox.min.css</h3> 
 <pre><code><span class="hljs-tag">&lt;<span class="hljs-name">link</span> <span class="hljs-attr">rel</span>=<span class="hljs-string">"stylesheet"</span> <span class="hljs-attr">href</span>=<span class="hljs-string">"colorbox.min.css"</span>&gt;</span>
 </code></pre>
