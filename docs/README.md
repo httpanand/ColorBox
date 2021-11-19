@@ -22,3 +22,5 @@
 <h3> ➫ White Button </h3> 
 <pre><code>&lt;<span class="hljs-keyword">button</span> class=<span class="hljs-string">"cb-btn-w"</span>&gt; <span class="hljs-keyword">Button</span> &lt;/<span class="hljs-keyword">button</span>&gt;
 </code></pre>
+
+<h3 align="center"> Have Ideas ? Open a Issue and mention . I'll try to implement  😀</h3> 
