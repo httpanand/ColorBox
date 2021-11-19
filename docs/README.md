@@ -24,4 +24,4 @@
 </code></pre>
 
 <h3 align="center"> Have Ideas ? Open a Issue and mention . I'll try to implement  😀</h3> 
-<h3 align="center"> More styles coming soon ! </h3> 
+<h3 align="center"> More styles coming soon  </h3> 
