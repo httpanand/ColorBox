@@ -1,0 +1,93 @@
+<html>
+<body> 
+
+<head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+</head>
+
+<section id="sticky-header">
+<nav style="background-color: #000000;opacity:80%" class="navbar fixed-top navbar-expand-lg navbar-light" >
+  <a id="strs" class="navbar-brand" href="#"><img height="40px" src="colorbox.png"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a id="home" class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a id="about" class="nav-link" href="#">GITHUB</a>
+      </li>
+    
+    </ul>
+  </div>
+</nav>
+</section>
+
+<div class="container-fluid text-center">
+<h1 id="colorbox"> COLOR BOX </h1>
+<h4 id="description"> A simple button plugin for your website </h4>
+</div>
+
+
+<div class="container-fluid text-center">
+    <a href="https://github.com/httpanand/ColorBox">
+<i id="github" class="fa fa-github" aria-hidden="true"></i>
+</a>
+</div>
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body{
+    background: url('bg.jpg') no-repeat center center fixed;;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+    overflow: hidden;
+
+}
+
+
+#github{
+    font-size: 35px;
+    color: black;
+    opacity: 70%;
+   
+}
+
+#github:hover{
+    opacity: 100%;
+}
+
+#colorbox{
+    font-size: 100px;
+    font-family: 'Fredoka One', cursive;
+    padding-top: 300px;
+}
+
+#description{
+    font-size : 40px; 
+}
+
+@media (orientation: portrait) {
+  #colorbox{
+    font-size : 80px;
+    padding-top: 800px;
+   
+  }
+
+  #description{
+    font-size : 40px;
+ 
+   
+  }
+ 
+
+</style>
