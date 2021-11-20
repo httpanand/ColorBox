@@ -23,9 +23,11 @@
 <pre><code>&lt;<span class="hljs-keyword">button</span> class=<span class="hljs-string">"cb-btn-w"</span>&gt; <span class="hljs-keyword">Button</span> &lt;/<span class="hljs-keyword">button</span>&gt;
 </code></pre>
 <h3> ➫ Features </h3> 
-- Available in different colours
-- Border 
-- Shadow on hover 
+<ul>
+<li>Available in different colours</li>
+<li>Border </li>
+<li>Shadow on hover </li>
+</ul>
 
 
 <h3 align="center"> Have Ideas ? Open a Issue and mention . I'll try to implement  😀</h3> 
